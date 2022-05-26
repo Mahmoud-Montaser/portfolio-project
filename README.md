@@ -1,6 +1,6 @@
 # portfolio-project
 
-### ❤ this website is my protfolio website, i made it using html, css, js, bootstrap, jquery ❤
+#### ❤ this website is my protfolio website, i made it using html, css, js, bootstrap, jquery ❤
 
 
 
